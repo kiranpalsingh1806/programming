@@ -1,6 +1,5 @@
 ## Coding Examples
 
---- 
 #### You can also run code and see output yourself!!!   
 #### Click on 'Code' button on every example to run the code in online compiler
 
