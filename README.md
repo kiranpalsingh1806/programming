@@ -1,8 +1,8 @@
 ### Programming Languages
 
-C++
-
-Python
+- C++
+- Python
+- Javascript
 
 ---
 This file is created by [Kiranpal Singh](https://github.com/kiranpalsingh1806) <br>
